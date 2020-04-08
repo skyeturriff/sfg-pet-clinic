@@ -19,8 +19,8 @@ import java.util.Set;
  * @see PetService
  * @see VetService
  *
- * @param <T>
- * @param <ID>
+ * @param <T>  the domain type to manage
+ * @param <ID> the domain type's id type
  */
 public interface CrudService<T, ID> {
 
