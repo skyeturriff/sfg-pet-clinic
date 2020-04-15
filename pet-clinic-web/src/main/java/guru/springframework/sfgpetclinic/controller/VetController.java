@@ -10,7 +10,7 @@ public class VetController {
      * Handles requests that come into:
      * root context + "/vets", or
      * root context + "/vets/index", or
-     * root context + "vets/index.html"
+     * root context + "/vets/index.html"
      *
      * If we have logging enabled, we could see the following
      * console output:
